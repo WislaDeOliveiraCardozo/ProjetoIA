@@ -1,10 +1,10 @@
 header{
-    backgound-color: #9f19f9;
-    color:#FFFFFF;
-t   ext_align:center;
+    background-color: blue;
+    color: white;
+    text-align: center;
 }
 main{
-    background-color: #FFFFFF;
-    color:#a804ee;
-    text-align:center;
+    background-color: white;
+    color: blue;
+    text-align: center;
 }
