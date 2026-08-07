@@ -17,11 +17,12 @@ main{
 
 .card{
     padding: 5px;
-    border: 2px solid #141414;
+    border: 2px solid #7F49B4;
     margin: 10px;
-    background-color: #141414;
+    background-color: #7F49B4;
     color: #CFCFCF;
     text-align: center;
+    border-radius: 10px;
 }
 
 img{
