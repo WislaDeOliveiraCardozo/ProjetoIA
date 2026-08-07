@@ -1,11 +1,11 @@
 header{
-    background-color: #0F0A0A;
-    color: #82D173;
+    background-color: #7F49B4;
+    color: #141414;
     text-align: center;
 }
 main{
     background-color: white;
-    color: #0F0A0A;
+    color: #7F49B4;
     text-align: center;
 }
 
@@ -17,10 +17,10 @@ main{
 
 .card{
     padding: 5px;
-    border: 2px solid #82D173;
+    border: 2px solid #141414;
     margin: 10px;
-    background-color: #82D173;
-    color: white;
+    background-color: #141414;
+    color: #CFCFCF;
     text-align: center;
 }
 
