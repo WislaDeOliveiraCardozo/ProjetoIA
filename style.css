@@ -5,7 +5,7 @@ header{
 }
 main{
     background-color: rgb(29, 29, 29)14;
-    color: #131935;
+    color: #dfa800;
     text-align: center;
 }
 
@@ -17,10 +17,10 @@ main{
 
 .card{
     padding: 5px;
-    border: 2px solid #7F49B4;
+    border: 2px solid #490968;
     margin: 10px;
-    background-color: #7F49B4;
-    color: #CFCFCF;
+    background-color: #490968;
+    color: #dfa800;
     text-align: center;
     border-radius: 10px;
 }
