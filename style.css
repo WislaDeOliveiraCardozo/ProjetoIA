@@ -1,11 +1,11 @@
 header{
     background-color: #0F0A0A;
-    color: white;
+    color: #82D173;
     text-align: center;
 }
 main{
     background-color: white;
-    color: #82D173;
+    color: #0F0A0A;
     text-align: center;
 }
 
@@ -17,9 +17,9 @@ main{
 
 .card{
     padding: 5px;
-    border: 2px solid rgb(49, 183, 0);
+    border: 2px solid #82D173;
     margin: 10px;
-    background-color: rgba(12, 181, 0, 0.689);
+    background-color: #82D173;
     color: white;
     text-align: center;
 }
